@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Pasang Lama</h1>
 <h3 align="center">A Frontend Developer</h3>
 
+[![](https://visitcount.itsvg.in/api?id=pasang24&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # About Me
 - 🌱 I’m currently learning **React Js**
 
