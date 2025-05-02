@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio site [pasanglama.com.np](https://pasanglama.com.np)
 
-- 📫 How to reach me **pasangtheeng14@gmail.com**
+- 📫 How to reach me **pasanglama.cs@gmail.com**
 
 # Connect with me:
 <p align="left">
